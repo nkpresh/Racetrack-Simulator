@@ -1,2 +1,2 @@
 # Racetrack-Simulator
-this is a fon game play
+this is a fun game play
