@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\bin\Debug\RaceTrack Simulator.exe.config
+C:\Users\Acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\bin\Debug\RaceTrack Simulator.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\bin\Debug\RaceTrack Simulator.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\obj\Debug\RaceTrack Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\obj\Debug\RaceTrack_Simulator.Form1.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\obj\Debug\RaceTrack_Simulator.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\obj\Debug\RaceTrack Simulator.csproj.GenerateResource.Cache
+C:\Users\Acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\obj\Debug\RaceTrack Simulator.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\RaceTrack Simulator\RaceTrack Simulator\obj\Debug\RaceTrack Simulator.pdb
